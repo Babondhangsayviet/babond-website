@@ -1,4 +1,5 @@
-export const metadata = {
+export default function RootLayout({ children }) {
+  export const metadata = {
   title: 'BaBond — Hàng Sấy Việt',
   description: 'Thực phẩm sấy thiên nhiên, giữ trọn hương vị quê hương',
 };
